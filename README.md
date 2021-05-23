@@ -15,8 +15,4 @@ This is not the best way. Password from PSCredential can be retrieved:
 
 $adminCreds.GetNetworkCredential().password
 
-The command runas is a real "hole" if called with parameter /savecred
-
 This saves the password, then the user, as a result, can execute any program without entering the administrator password
-
-Although this method did not work with openconnect-gui.
