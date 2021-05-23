@@ -15,4 +15,4 @@ This is not the best way. Password from PSCredential can be retrieved:
 
 $adminCreds.GetNetworkCredential().password
 
-This saves the password, then the user, as a result, can execute any program without entering the administrator password
+This saves the password then the user as a result can execute any program without entering the administrator password
