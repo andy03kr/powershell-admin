@@ -21,4 +21,4 @@ This saves the password then the user as a result can execute any program withou
 
 Or use this program
 
-https://sourceforge.net/projects/surun/files/SuRun/SuRun%201.2.1.4/
+https://sourceforge.net/projects/surun/
