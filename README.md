@@ -1,4 +1,6 @@
 # powershell-admin
+Before I describe this method let me clarify I am not the original author of the code used to do the encryption/decryption part, I simply downloaded it, refined a bit and adapted to my needs.
+
 run OpenConnect-GUI with powershell
 
 1) Copy init_script.ps1 and run_script.ps1 into C:\Program Files (x86)\OpenConnect-GUI\
