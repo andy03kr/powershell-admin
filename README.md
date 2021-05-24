@@ -18,3 +18,7 @@ This is not the best way. Password from PSCredential can be retrieved:
 $adminCreds.GetNetworkCredential().password
 
 This saves the password then the user as a result can execute any program without entering the administrator password
+
+Or use this program
+
+https://sourceforge.net/projects/surun/files/SuRun/SuRun%201.2.1.4/
